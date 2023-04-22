@@ -12,4 +12,4 @@
 > Welcome to my profile! I am a Mathematics and Computing student in IIT Goa with a passion for technology and a drive to make a positive impact in the world through innovative solutions.
 > I am always seeking new challenges and opportunities to apply my knowledge and skills.
 > I am a good learner and a good listener too.
-> I know basics of python and C++ and i have startedn learning Web development.
+> I know basics of python and C++ and i have started learning Web development.
