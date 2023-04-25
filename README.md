@@ -21,7 +21,7 @@
 
  ## **Course@IIT GOA**
 
-- **CS102** Software Tools _ClintPGeorge_
+- **CS102** Software Tools [https://clintpgeorge.github.io/cs-102/spring-2023/] _ClintPGeorge_
 - **MA102** Basic Linear Algebra _Kalpesh Haria_
 - **MA103** Ordinary Differential Equation _Saumya Bajpai_
 - **BIO101** Introduction to Biology _Sreenath Balakrishnan_
