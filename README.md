@@ -34,9 +34,9 @@
 
 ## **Hobbies and Interests** 
  
- > I am always seeking new challenges and opportunities to apply my   knowledge and skills.
- > My hobbies include singing,playing guitar,playing keyboard.
- > I am also interested in doing technical things .
-> I love doing coding .
-> I have started learnig c++ and Web Development also .
->I am a good learner and listener too.
+ I am always seeking new challenges and opportunities to apply my   knowledge and skills.
+ My hobbies include singing,playing guitar,playing keyboard.
+  I am also interested in doing technical things .
+ I love doing coding .
+ I have started learnig c++ and Web Development also .
+I am a good learner and listener too.
